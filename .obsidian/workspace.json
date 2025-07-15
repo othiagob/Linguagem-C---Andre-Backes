@@ -168,10 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ceb0939cd30ae0f",
+  "active": "81b3224ddbe31a6c",
   "lastOpenFiles": [
-    "exercicio35",
     "README.md",
-    "astronvimComandos.md"
+    "astronvimComandos.md",
+    "vetores_e_matrizes_c.markdown",
+    "exercicio35"
   ]
 }
