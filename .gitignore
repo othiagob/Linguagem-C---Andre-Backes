@@ -1,0 +1,28 @@
+# Arquivos executáveis
+*.exe
+*.out
+a.out
+
+# Arquivos objeto
+*.o
+*.obj
+
+# Arquivos temporários do editor
+*.swp
+*.kate-swp
+*~
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de IDE
+.vscode/
+.idea/
+
+# Arquivos de backup
+*.bak
+*.backup
+
+# Arquivos binários gerados
+*.bin
